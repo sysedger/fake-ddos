@@ -41,4 +41,4 @@ def fake_ddos_attack():
 if __name__ == "__main__":
     print(f"{Fore.RED}警告：本程序为教学演示工具")
     print(f"{Fore.BLUE}法律声明：禁止用于任何非法用途\n")
-    fake_ddos_attack()```
+    fake_ddos_attack()
